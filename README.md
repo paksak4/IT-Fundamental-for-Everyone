@@ -161,7 +161,7 @@ HTTP를 출발점으로 웹의 기본 원리를 이해하고,
 | Day 6 | 섹션 5. Digital Transformation | AWS 역할 | EC2, S3, RDS 개념적 이해 |  |  |
 | Day 6 | 섹션 5. Digital Transformation | CI/CD | 자동 빌드 및 배포 흐름 |  |  |
 | Day 6 | 섹션 5. Digital Transformation | MSA | 모놀리식 vs 마이크로서비스 |  |  |
-| Day 6 | 섹션 5. Digital Transformation | 컨테이너 등장 배경 | VM과 컨테이너 비교 |  |  |
+| Day 6 | 섹션 5. Digital Transformation | 컨테이너 등장 배경 | VM과 컨테이너 비교 | 홍창희 |  |
 | Day 6 | 섹션 5. Digital Transformation | 컨테이너 개념과 한계 | 실행 환경 표준화와 관리 문제 |  |  |
 | Day 7 | 섹션 6. Kubernetes | 쿠버네티스 개요 | 컨테이너 오케스트레이션 개념 |  |  |
 | Day 7 | 섹션 6. Kubernetes | 쿠버네티스 사용 이유 | 자동 배포, 복구, 확장 |  |  |
